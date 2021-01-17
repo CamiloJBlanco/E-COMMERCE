@@ -4,6 +4,17 @@
 
 # Henry
 
+## Project built using:
+
+- JavaScript
+- HTML
+- CSS
+- React 
+- Redux
+- Node.js
+- Express.js
+- PostgreSQL
+
 ## Objetivos del Proyecto
 
 - Construir una App JavaScript desde cero.
